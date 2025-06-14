@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own Chat application<br>👯 I’m always open for collaboration<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning MERN 
+🔭 I’m currently working on my own Chat application<br>👯 I’m always open for collaboration<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning Data Science 
 
 
 ## 🌐 Socials:
